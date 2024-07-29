@@ -15,5 +15,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: this this third line
-        run: this is test line
+        run: echo this is test line
     
